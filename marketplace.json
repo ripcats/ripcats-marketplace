@@ -1,0 +1,11 @@
+{
+  "name": "ripcats-marketplace",
+  "owner": { "name": "ripcats" },
+  "plugins": [
+    {
+      "name": "claude-gram",
+      "source": "./claude-gram",
+      "description": "Telegram-канал для Claude Code — получай и отправляй сообщения, файлы и альбомы прямо из агента"
+    }
+  ]
+}

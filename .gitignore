@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+access.json
+session_thread_id
+history.db
+inbox/
+bot.pid
+approved/
+.planning/
